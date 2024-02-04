@@ -1,4 +1,4 @@
-### Covid19 Analysis for Germany. ✨
+# Covid19 Analysis for Germany. ✨
  
 📚 **Description**
 =================
@@ -21,7 +21,7 @@ I would like to express my gratitude to The Azubi Africa team for their valuable
 📞 **Contact**
 =================
  
-For any questions, concerns, or suggestions regarding  this project, please contact me at gyesidavid@gmail.com.
+For any questions, concerns, or suggestions regarding  this project, please contact me at kwadwo.sarpong@stud.th-deg.de
  
  
 👥 **Author**
