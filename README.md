@@ -3,7 +3,8 @@
 📚 **Description**
 =================
  
-For this project, I use R programming language to analyse Covid19 dataset for Germany.
+For this project, I use R programming language to analyse Covid19 dataset for Germany and deployed an interactive dashboard using Shiny library. 
+
 📖 **Table of Contents**
 =================
 - Usage
@@ -11,12 +12,15 @@ For this project, I use R programming language to analyse Covid19 dataset for Ge
 - contact
 - Authors
  
+✨ **Usage**
+=================
+To assess the interactive dashboard click on this link:http://127.0.0.1:6919/
 
 
 ✨ **Acknowledgments**
 =================
  
-I would like to express my gratitude to The Azubi Africa team for their valuable contributions to this project.
+I would like to express my gratitude to Prof Dominik Böhler for his valuable contributions to this project.
  
 📞 **Contact**
 =================
